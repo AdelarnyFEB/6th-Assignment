@@ -1,0 +1,15 @@
+body {
+    background-color: #8a0707;
+    text-align: center;
+    color: #ffffff;
+}
+
+h1 {
+    font-weight: 500px;
+}
+
+figure{
+    background-image: url("./images/Abidemi Adelani - 1.jpg");
+    background-color : linear-gradient (rgb(72,0,72,0.8), rgb(192,72,72,0.8));
+    background-size: cover;
+}
