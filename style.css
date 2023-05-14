@@ -1,15 +1,45 @@
 body {
     background-color: #8a0707;
-    text-align: center;
     color: #ffffff;
+    font-family: sans-serif;
 }
 
 h1 {
     font-weight: 500px;
+    font-size: 55px;
+    text-align: center;
 }
 
 figure{
     background-image: url("./images/Abidemi Adelani - 1.jpg");
     background-color : linear-gradient (rgb(72,0,72,0.8), rgb(192,72,72,0.8));
     background-size: cover;
+}
+
+img {
+   padding: 20px 0 20px 0;
+}
+
+figcaption {
+    padding-bottom: 20px;
+}
+
+.container {
+    width:50%; 
+    margin: auto;
+}
+
+h3, li {
+ padding-bottom: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+#p1 {
+    color: #C7C2C2;
+}
+h4, h3{
+    text-align: center;
 }
